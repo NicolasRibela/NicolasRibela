@@ -1,8 +1,7 @@
 # Olá, eu sou o Nicolas Ribela
 
-• Estagiário na área de tecnologia (suporte + APIs)
-• Atualmente estudando Java, APIs REST e MySQL
-• Em transição para desenvolvimento back-end
+• Estagiário na área de tecnologia (suporte + APIs), atualmente estudando Java, APIs REST e MySQL
+• Em transição para desenvolvimento Back-End
 
 ---
 
