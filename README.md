@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou o Nicolas Ribela
+# Olá, eu sou o Nicolas Ribela
 
-💻 Estagiário na área de tecnologia (suporte + APIs)
-📚 Atualmente estudando Java, APIs REST e MySQL
-🚀 Em transição para desenvolvimento back-end
+• Estagiário na área de tecnologia (suporte + APIs)
+• Atualmente estudando Java, APIs REST e MySQL
+• Em transição para desenvolvimento back-end
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Atualmente atuo com suporte técnico em uma plataforma de CRM, lidando diretamente com clientes, integrações e resolução de problemas.
 
@@ -19,19 +19,19 @@ Estou desenvolvendo minhas habilidades em:
 
 ---
 
-## 🛠️ Tecnologias em aprendizado
+## Tecnologias em aprendizado
 
-* Java ☕
-* Spring Boot 🌱
-* MySQL 🗄️
-* APIs REST 🔗
-* Postman 📬
+* Java
+* Spring Boot
+* MySQL
+* APIs REST
+* Postman
 
 ---
 
-## 📂 Projetos
+## Projetos
 
-🚧 Em desenvolvimento...
+Em desenvolvimento...
 
 Atualmente estou focado em aprendizado prático. Em breve estarei adicionando projetos como:
 
@@ -41,18 +41,18 @@ Atualmente estou focado em aprendizado prático. Em breve estarei adicionando pr
 
 ---
 
-## 📈 Objetivo
+## Objetivo
 
 Me tornar um desenvolvedor completo, com uma base sólida em programação, capaz de trabalhar com diferentes linguagens, tecnologias e desafios.
 Busco evoluir constantemente, adquirindo conhecimento em áreas como desenvolvimento back-end, bancos de dados, APIs e outras tecnologias relevantes do mercado.
 
 ---
 
-## 📫 Contato
+## Contato
 
 * LinkedIn: (https://www.linkedin.com/in/nicolas-ribela-a0b668200/)
 * Email: (nicolasrdiassilva@gmail.com)
 
 ---
 
-✨ Sempre evoluindo e buscando aprender algo novo todos os dias.
+Sempre evoluindo e buscando aprender algo novo todos os dias.
